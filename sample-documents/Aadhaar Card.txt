@@ -1,0 +1,5 @@
+SYNTHETIC TEST DATA - NOT A REAL IDENTITY DOCUMENT
+Document Type: Aadhaar Card
+Name: Asha Sharma
+Address: 14 Lake View Road, Pune, Maharashtra
+Aadhaar: 0000 1111 2222 (FAKE PLACEHOLDER)

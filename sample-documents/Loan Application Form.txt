@@ -1,0 +1,9 @@
+SYNTHETIC TEST DATA - NOT A REAL PERSON
+Document Type: Loan Application Form
+Applicant Name: Asha Sharma
+Date of Birth: 1992-04-18
+Address: 14 Lake View Road, Pune, Maharashtra
+Requested Loan Amount: INR 850000
+Declared Monthly Income: INR 72000
+Employer: Example Technology Services
+Employment Type: Salaried

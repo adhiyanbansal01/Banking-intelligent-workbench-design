@@ -1,0 +1,7 @@
+SYNTHETIC TEST DATA
+Document Type: Salary Slip
+Applicant Name: Asha Sharma
+Employer: Example Technology Services
+Pay Period: October 2026
+Gross Salary: INR 80000
+Net Salary: INR 70000

@@ -1,0 +1,6 @@
+SYNTHETIC TEST DATA
+Document Type: Income Tax Return Summary
+Applicant Name: Asha Sharma
+Assessment Year: 2026-27
+Annual Income: INR 840000
+Declared Address: 14 Lake View Road, Pune, Maharashtra
